@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Ankushsingour/ankushsingour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Ankush Singour, a passionate DevOps engineer with a knack for automating workflows, streamlining CI/CD pipelines, and deploying scalable cloud infrastructure. My mission is to bridge the gap between development and operations by promoting seamless collaboration and efficient delivery.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 My Core DevOps Skills:
+
+Operating Systems: Linux
+Version Control: Git & GitHub
+Containers: Docker
+Orchestration: Kubernetes
+CI/CD: Jenkins
+Networking: Networking fundamentals & automation
+
